@@ -9,11 +9,18 @@ This project implements and compares the following greedy algorithms for recover
 4. BCoSaMP -- Zhang, X., Xu, W., Cui, Y., Lu, L. and Lin, J., 2019. On recovery of block sparse signals via block compressive sampling matching pursuit. IEEE Access, 7, pp.175554-175563.
 5. GPSP -- He, Y., Kang, S.H., Liao, W., Liu, H. and Liu, Y., 2023. Group Projected subspace pursuit for IDENTification of variable coefficient differential equations (GP-IDENT). Journal of Computational Physics, 494, p.112526.
 
+## Some Key Results
 
-## Heterogeneous Gaussian blocks (M: block size)
+### Heterogeneous Gaussian blocks (M: block size)
 <p align="center">
    <img src="assets/result1.png" width="700" height="450">
 </p>
+
+### Other types of random sampling matrices (M: block size)
+<p align="center">
+   <img src="assets/result1.png" width="700" height="450">
+</p>
+
 
 
    
