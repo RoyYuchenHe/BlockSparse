@@ -1,6 +1,6 @@
 # BlockSparse
 
-This project includes implementations of the following greedy algorithms for recoverying block sparse signals:
+This project collects implementations of the following greedy algorithms for recoverying block sparse signals:
 
 1. BOMP -- Eldar, Y.C., Kuppinger, P. and Bolcskei, H., 2010. Block-sparse signals: Uncertainty relations and efficient recovery. IEEE Transactions on Signal Processing, 58(6), pp.3042-3054.
 2. BSP -- Kamali, A., Sahaf, M.A., Hooseini, A.D. and Tadaion, A.A., 2013. Block subspace pursuit for block-sparse signal reconstruction. Iranian Journal of Science and Technology. Transactions of Electrical Engineering, 37(E1), p.1.
