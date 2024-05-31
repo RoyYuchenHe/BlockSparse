@@ -1,5 +1,5 @@
 # Group Projected Subspace Pursuit for Block Sparse Signal Reconstruction: Convergence Analysis and Applications
-## Roy Y. He, Haixia Liu, and Hao Liu
+**[Roy Y. He](https://www.cityu.edu.hk/stfprofile/royhe.htm), [Haixia Liu](https://www.x-mol.com/university/faculty/323931), and [Hao Liu](https://www.math.hkbu.edu.hk/~haoliu/index.html)**
 
 This project implements and compares the following greedy algorithms for recoverying block sparse signals:
 
