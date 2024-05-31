@@ -18,7 +18,7 @@ This project implements and compares the following greedy algorithms for recover
 
 ### Other types of random sampling matrices (M: block size)
 <p align="center">
-   <img src="assets/result2.png" width="700" height="450">
+   <img src="assets/result2.png" width="700" height="500">
 </p>
 
 
